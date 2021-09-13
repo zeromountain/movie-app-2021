@@ -63,5 +63,9 @@
 .movie__genres li,
 .movie .movie__year {
   margin-right: 10px;
-  font-size: 14px;
+  font-size: 12px;
+}
+
+.genres__genre {
+  list-style: none;
 }
